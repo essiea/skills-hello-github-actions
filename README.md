@@ -52,13 +52,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 
-[{
-  "name": "Custom Text Emojis",
-  "type": "text",
-  "source": "https://ascii.li/emoticons/happy",
-  "details": "Happy Text Emoticons",
-  "previewSize": "1em"
-},{
-  "text": "^\u203f^",
-  "name": "simple smile"
-}]
+This modifies the README file.
